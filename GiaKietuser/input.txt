@@ -1,0 +1,4 @@
+3
+admin admin01 12345 Nguyen_Van_Admin 0909999999 123_AdminStreet admin@mail.com 0
+customer user01 1111 Le_Van_User 0901111111 45_CustomerSt user@mail.com 0
+customer user02 2222 Tran_Thi_B 0902222222 89_CustomerSt user2@mail.com 1
